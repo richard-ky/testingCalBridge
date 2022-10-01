@@ -1,3 +1,5 @@
 test
 bean
 This is a line added from my desktop to my local copy
+added this line using GitHub
+
